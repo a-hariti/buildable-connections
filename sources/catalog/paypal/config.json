@@ -1,5 +1,5 @@
 {
-  "title": "Stripe",
+  "title": "Paypal",
   "description": "Payment processing and ecommerce",
   "apiVersion": "",
   "platform": "paypal",
